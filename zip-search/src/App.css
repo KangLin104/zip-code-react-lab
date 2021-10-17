@@ -4,3 +4,26 @@
   color: white;
   text-align: center;
 }
+.zip-input{
+  display:flex;
+  justify-content:center ;
+  margin:auto;
+  padding: 20px;
+  font-weight: 600;
+}
+.city-container{
+  border:1px solid black;
+  margin:10px auto;
+  width:400px;
+
+}
+.city{
+  background-color: #E8E8E8;
+}
+.header{
+  padding:10px;
+  background-color:gray;
+}
+.content{
+padding:10px;
+}
